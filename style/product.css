@@ -33,3 +33,21 @@
 #submit{
     background-color: orange;
 }
+
+#editButton{
+    position: relative;
+    width: 50px;
+    font-size: 10px;
+    background-color: orange;
+    margin-right: -400px;
+}
+
+#btn {
+    background-color: black; 
+    border: none; 
+    color: white; 
+    padding: 12px 16px; 
+    font-size: 16px; 
+    cursor: pointer; 
+  }
+  
